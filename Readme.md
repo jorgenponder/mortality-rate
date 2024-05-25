@@ -1,5 +1,7 @@
 # Mortality rate visualizer
 
+![A diagram](diagram.jpg)
+
 ## Disclaimer
 
 I'm not really sure if this is doing what it is supposed to do.
@@ -21,4 +23,8 @@ Multiplies mortality rate for any given year by factor from  1.5 up to 5.
 
 Tried it make curves similar to the charts of Swedish women's life expectancy 1950-210 from this paper:
 
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394084/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394084/
+
+Diagram from that paper:
+
+![A diagram from paper PMC3394084](from_paper.jpg)
