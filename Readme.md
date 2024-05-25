@@ -1,4 +1,4 @@
-# Mortality rate visualizer
+# Survival rate visualizer
 
 ![diagram](https://github.com/jorgenponder/mortality-rate/assets/67808946/942bc184-b803-4c41-89a2-d7f209e7ff93)
 
