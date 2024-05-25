@@ -1,6 +1,6 @@
 # Mortality rate visualizer
 
-![A diagram](diagram.jpg)
+![A diagram](./diagram.jpg)
 
 ## Disclaimer
 
@@ -27,4 +27,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394084/
 
 Diagram from that paper:
 
-![A diagram from paper PMC3394084](from_paper.jpg)
+![A diagram from paper PMC3394084](./from_paper.jpg)
