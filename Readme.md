@@ -1,6 +1,7 @@
 # Mortality rate visualizer
 
-![A diagram](./diagram.jpg)
+![diagram](https://github.com/jorgenponder/mortality-rate/assets/67808946/942bc184-b803-4c41-89a2-d7f209e7ff93)
+
 
 ## Disclaimer
 
@@ -27,4 +28,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394084/
 
 Diagram from that paper:
 
-![A diagram from paper PMC3394084](./from_paper.jpg)
+![from_paper](https://github.com/jorgenponder/mortality-rate/assets/67808946/da9de47f-9451-4745-9a1f-20f88d6de8ab)
