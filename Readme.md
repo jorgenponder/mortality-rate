@@ -13,7 +13,7 @@ Use python, pip install what is in dependencies.txt. Run the run.py file with py
 
 ## Question and behavior
 
-If the odds of dying every year increased with a constant factor, would people notice?
+If the odds of dying every year was heightened by a constant, when would people notice?
 Code has a model with different odds and their effect on life expectancy.
 
 Computes and displays percentage of age group still alive for different covid mortality amplifying ratios (odds).
